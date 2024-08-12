@@ -13,21 +13,21 @@ I earned my bachelor’s degree at Peking University, where I was fortunate to b
 
 Publications
 ======
-* **Robust Decision Aggregation with Second-order Information**
-**Yuqi Pan**, Zhaohua Chen, Yuqing Kong
+* **Robust Decision Aggregation with Second-order Information**  
+**Yuqi Pan**, Zhaohua Chen, Yuqing Kong  
 The Web Conference (WWW), 2024
-*  **Dynamic Budget Throttling in Repeated Second-Price Auctions**
-Zhaohua Chen, Chang Wang, Qian Wang, **Yuqi Pan**, Zhuming Shi, Zheng Cai, Yukun Ren, Zhihua Zhu, Xiaotie Deng
+*  **Dynamic Budget Throttling in Repeated Second-Price Auctions**  
+Zhaohua Chen, Chang Wang, Qian Wang, **Yuqi Pan**, Zhuming Shi, Zheng Cai, Yukun Ren, Zhihua Zhu, Xiaotie Deng  
 AAAI, 2024
-* **Altruism, Collectivism and Egalitarianism: On a Variety of Prosocial Behaviors in Binary Networked Public Goods Games**
-Jichen Li, Xiaotie Deng, Yukun Cheng, **Yuqi Pan**, Xuanzhi Xia, Zongjun Yang, Jan Xie
+* **Altruism, Collectivism and Egalitarianism: On a Variety of Prosocial Behaviors in Binary Networked Public Goods Games**  
+Jichen Li, Xiaotie Deng, Yukun Cheng, **Yuqi Pan**, Xuanzhi Xia, Zongjun Yang, Jan Xie  
 AAMAS, 2023
 
 Working Papers
 ======
-* **Differentially Private Bayesian Persuasion**
+* **Differentially Private Bayesian Persuasion**  
 **Yuqi Pan**, Zhiwei Steven Wu, Haifeng Xu, Shuran Zheng (alphabetical order)
-* **On the Re-Solving Heuristic for (Binary) Contextual Bandits with Knapsacks**
+* **On the Re-Solving Heuristic for (Binary) Contextual Bandits with Knapsacks**  
 Rui Ai, Zhaohua Chen, Xiaotie Deng, **Yuqi Pan**, Chang Wang, Mingwei Yang (alphabetical order)
   
 Teachings
