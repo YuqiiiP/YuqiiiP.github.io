@@ -14,7 +14,9 @@ I earned my bachelor’s degree at Peking University, where I was fortunate to b
 Publications
 ======
 * **Robust Decision Aggregation with Second-order Information**
+  
   **Yuqi Pan**, Zhaohua Chen, Yuqing Kong
+  
   The Web Conference (WWW), 2024
 *  **Dynamic Budget Throttling in Repeated Second-Price Auctions**
   Zhaohua Chen, Chang Wang, Qian Wang, **Yuqi Pan**, Zhuming Shi, Zheng Cai, Yukun Ren, Zhihua Zhu, Xiaotie Deng
