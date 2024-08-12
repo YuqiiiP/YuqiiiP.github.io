@@ -32,9 +32,9 @@ Rui Ai, Zhaohua Chen, Xiaotie Deng, **Yuqi Pan**, Chang Wang, Mingwei Yang (alph
   
 Teachings
 ======
-* 2022 Fall: Discrete Mathematics and Structures, PKU (TA)
-* 2023 Spring: Study and Practice on Topics of Frontier Computing, PKU (TA)
 * 2023 Fall: Discrete Mathematics and Structures, PKU (TA)
+* 2023 Spring: Study and Practice on Topics of Frontier Computing, PKU (TA)
+* 2022 Fall: Discrete Mathematics and Structures, PKU (TA)
 
 More About Me
 ======
