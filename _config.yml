@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Yuqi Pan"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Yuqi Pan"
+description              : &description "PhD student at Harvard University"
 url                      : https://yuqiiip.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YuqiiiP/YuqiiiP.github.io"
@@ -22,10 +22,10 @@ repository               : "YuqiiiP/YuqiiiP.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Yuqi Pan"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "PhD student at Harvard University"
+  location         : "Cambridge, MA"
   employer         : "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
