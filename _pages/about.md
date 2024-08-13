@@ -31,7 +31,7 @@ Working Papers
 * **Differentially Private Bayesian Persuasion**  
 **Yuqi Pan**, Zhiwei Steven Wu, Haifeng Xu, Shuran Zheng (alphabetical order)  
 [[arXiv](https://arxiv.org/abs/2402.15872)]
-* **On the Re-Solving Heuristic for (Binary) Contextual Bandits with Knapsacks**  
+* **Contextual Decision-Making with Knapsacks beyond Worst Cases**  
 Rui Ai, Zhaohua Chen, Xiaotie Deng, **Yuqi Pan**, Chang Wang, Mingwei Yang (alphabetical order)  
 
 Teachings
