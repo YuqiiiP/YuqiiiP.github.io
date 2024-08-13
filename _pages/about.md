@@ -16,21 +16,21 @@ Publications
 * **Robust Decision Aggregation with Second-order Information**  
 **Yuqi Pan**, Zhaohua Chen, Yuqing Kong  
 The Web Conference (WWW) 2024  
-[[arXiv](https://arxiv.org/abs/2311.14094)]
+[[arxiv](https://arxiv.org/abs/2311.14094)]
 *  **Dynamic Budget Throttling in Repeated Second-Price Auctions**  
 Zhaohua Chen, Chang Wang, Qian Wang, **Yuqi Pan**, Zhuming Shi, Zheng Cai, Yukun Ren, Zhihua Zhu, Xiaotie Deng  
 AAAI 2024  
-[[arXiv](https://arxiv.org/abs/2207.04690)]
+[[arxiv](https://arxiv.org/abs/2207.04690)]
 * **Altruism, Collectivism and Egalitarianism: On a Variety of Prosocial Behaviors in Binary Networked Public Goods Games**  
 Jichen Li, Xiaotie Deng, Yukun Cheng, **Yuqi Pan**, Xuanzhi Xia, Zongjun Yang, Jan Xie  
 AAMAS 2023  
-[[PDF](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.ifaamas.org/Proceedings/aamas2023/pdfs/p609.pdf)]
+[[paper](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.ifaamas.org/Proceedings/aamas2023/pdfs/p609.pdf)]
 
 Working Papers
 ======
 * **Differentially Private Bayesian Persuasion**  
 **Yuqi Pan**, Zhiwei Steven Wu, Haifeng Xu, Shuran Zheng (alphabetical order)  
-[[arXiv](https://arxiv.org/abs/2402.15872)]
+[[arxiv](https://arxiv.org/abs/2402.15872)]
 * **Contextual Decision-Making with Knapsacks beyond Worst Cases**  
 Rui Ai, Zhaohua Chen, Xiaotie Deng, **Yuqi Pan**, Chang Wang, Mingwei Yang (alphabetical order)  
 
