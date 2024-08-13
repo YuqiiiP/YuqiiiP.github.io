@@ -1,15 +1,15 @@
 ---
 permalink: /
-title: "Yuqi Pan"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi! I’m a first-year PhD student in Computer Science at Harvard University, where I am fortunate to be advised by Prof. Milind Tambe. My research interests lie at the intersection of Computer Science and Economics, with a particular focus on modeling strategic agents and developing learning algorithms for social good.
+Hi! I’m a first-year PhD student in Computer Science at Harvard University, where I am fortunate to be advised by Prof. [Milind Tambe](https://teamcore.seas.harvard.edu/tambe). My research interests lie at the intersection of Computer Science and Economics, with a particular focus on modeling strategic agents and developing learning algorithms for social good.
 
-I earned my bachelor’s degree at Peking University, where I was fortunate to be advised by Prof. Xiaotie Deng and Prof. Yuqing Kong. Additionally, I had a wonderful summer research experience at CMU, working with Prof. Steven Wu, Prof. Haifeng Xu (UChicago), and Prof. Shuran Zheng (Tsinghua University).
+I earned my bachelor’s degree at Peking University, where I was fortunate to be advised by Prof. [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm) and Prof. [Yuqing Kong](https://cfcs.pku.edu.cn/yuqkong/). Additionally, I had a wonderful summer research experience at CMU, working with Prof. [Steven Wu](https://zstevenwu.com/), Prof. [Haifeng Xu](https://www.haifeng-xu.com/) (UChicago), and Prof. [Shuran Zheng](https://sites.google.com/view/shuran-zheng/about?authuser=0) (Tsinghua University).
 
 Publications
 ======
