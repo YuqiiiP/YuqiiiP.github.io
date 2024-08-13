@@ -24,7 +24,7 @@ AAAI 2024
 * **Altruism, Collectivism and Egalitarianism: On a Variety of Prosocial Behaviors in Binary Networked Public Goods Games**  
 Jichen Li, Xiaotie Deng, Yukun Cheng, **Yuqi Pan**, Xuanzhi Xia, Zongjun Yang, Jan Xie  
 AAMAS 2023  
-[[doi](https://dl.acm.org/doi/abs/10.5555/3545946.3598691)]
+[[PDF](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.ifaamas.org/Proceedings/aamas2023/pdfs/p609.pdf)]
 
 Working Papers
 ======
