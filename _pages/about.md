@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m a first-year PhD student in Computer Science at Harvard University, where I am fortunate to be advised by Prof. Milind Tambe. My research interests lie at the intersection of computer science and economics, with a particular focus on modeling strategic agents and developing learning algorithms for social good.
+Hi! I’m a first-year PhD student in Computer Science at Harvard University, where I am fortunate to be advised by Prof. Milind Tambe. My research interests lie at the intersection of Computer Science and Economics, with a particular focus on modeling strategic agents and developing learning algorithms for social good.
 
 I earned my bachelor’s degree at Peking University, where I was fortunate to be advised by Prof. Xiaotie Deng and Prof. Yuqing Kong. Additionally, I had a wonderful summer research experience at CMU, working with Prof. Steven Wu, Prof. Haifeng Xu (UChicago), and Prof. Shuran Zheng (Tsinghua University).
 
