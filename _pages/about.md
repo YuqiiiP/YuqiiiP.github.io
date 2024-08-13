@@ -15,13 +15,13 @@ Publications
 ======
 * **Robust Decision Aggregation with Second-order Information**  
 **Yuqi Pan**, Zhaohua Chen, Yuqing Kong  
-The Web Conference (WWW), 2024
+The Web Conference (WWW) 2024
 *  **Dynamic Budget Throttling in Repeated Second-Price Auctions**  
 Zhaohua Chen, Chang Wang, Qian Wang, **Yuqi Pan**, Zhuming Shi, Zheng Cai, Yukun Ren, Zhihua Zhu, Xiaotie Deng  
-AAAI, 2024
+AAAI 2024
 * **Altruism, Collectivism and Egalitarianism: On a Variety of Prosocial Behaviors in Binary Networked Public Goods Games**  
 Jichen Li, Xiaotie Deng, Yukun Cheng, **Yuqi Pan**, Xuanzhi Xia, Zongjun Yang, Jan Xie  
-AAMAS, 2023
+AAMAS 2023
 
 Working Papers
 ======
