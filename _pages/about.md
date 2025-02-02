@@ -13,6 +13,18 @@ I obtained my bachelor’s degree at Peking University, where I was fortunate to
 
 Publications
 ======
+* **Differentially Private Bayesian Persuasion**  
+**Yuqi Pan**, Zhiwei Steven Wu, Haifeng Xu, Shuran Zheng (alphabetical order)  
+The Web Conference (WWW) 2025 (Oral)
+[[arxiv](https://arxiv.org/abs/2402.15872)]
+* **Finite-Horizon Single-Pull Restless Bandits: An Efficient Index Policy For Scarce Resource Allocation**
+Guojun Xiong, Haichuan Wang, **Yuqi Pan**, Saptarshi Mandal, Sanket Shah, Niclas Boehmer, Milind Tambe
+AAMAS 2025
+[[arxiv](https://arxiv.org/abs/2501.06103)]
+* **Contextual Decision-Making with Knapsacks beyond Worst Cases**  
+Zhaohua Chen, Rui Ai, Mingwei Yang, **Yuqi Pan**, Chang Wang, Xiaotie Deng
+NeurIPS 2024
+[[arxiv](https://arxiv.org/abs/2211.13952)]
 * **Robust Decision Aggregation with Second-order Information**  
 **Yuqi Pan**, Zhaohua Chen, Yuqing Kong  
 The Web Conference (WWW) 2024  
@@ -26,13 +38,6 @@ Jichen Li, Xiaotie Deng, Yukun Cheng, **Yuqi Pan**, Xuanzhi Xia, Zongjun Yang, J
 AAMAS 2023  
 [[paper](https://dl.acm.org/doi/abs/10.5555/3545946.3598691)]
 
-Working Papers
-======
-* **Differentially Private Bayesian Persuasion**  
-**Yuqi Pan**, Zhiwei Steven Wu, Haifeng Xu, Shuran Zheng (alphabetical order)  
-[[arxiv](https://arxiv.org/abs/2402.15872)]
-* **Contextual Decision-Making with Knapsacks beyond Worst Cases**  
-Rui Ai, Zhaohua Chen, Xiaotie Deng, **Yuqi Pan**, Chang Wang, Mingwei Yang (alphabetical order)  
 
 Teachings
 ======
@@ -42,5 +47,5 @@ Teachings
 
 
 
-Last updated: August 2024
+Last updated: January 2025
 
