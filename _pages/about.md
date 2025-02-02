@@ -14,15 +14,15 @@ I obtained my bachelor’s degree at Peking University, where I was fortunate to
 Publications
 ======
 * **Differentially Private Bayesian Persuasion**  
-**Yuqi Pan**, Zhiwei Steven Wu, Haifeng Xu, Shuran Zheng (alphabetical order)  
-The Web Conference (WWW) 2025 (Oral)
+**Yuqi Pan**, Zhiwei Steven Wu, Haifeng Xu, Shuran Zheng (alphabetical order)    
+The Web Conference (WWW) 2025 **(Oral)**
 [[arxiv](https://arxiv.org/abs/2402.15872)]
 * **Finite-Horizon Single-Pull Restless Bandits: An Efficient Index Policy For Scarce Resource Allocation**
-Guojun Xiong, Haichuan Wang, **Yuqi Pan**, Saptarshi Mandal, Sanket Shah, Niclas Boehmer, Milind Tambe
+Guojun Xiong, Haichuan Wang, **Yuqi Pan**, Saptarshi Mandal, Sanket Shah, Niclas Boehmer, Milind Tambe  
 AAMAS 2025
 [[arxiv](https://arxiv.org/abs/2501.06103)]
 * **Contextual Decision-Making with Knapsacks beyond Worst Cases**  
-Zhaohua Chen, Rui Ai, Mingwei Yang, **Yuqi Pan**, Chang Wang, Xiaotie Deng
+Zhaohua Chen, Rui Ai, Mingwei Yang, **Yuqi Pan**, Chang Wang, Xiaotie Deng  
 NeurIPS 2024
 [[arxiv](https://arxiv.org/abs/2211.13952)]
 * **Robust Decision Aggregation with Second-order Information**  
