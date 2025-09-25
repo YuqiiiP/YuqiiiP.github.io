@@ -15,15 +15,15 @@ Publications
 ======
 * **Adaptive Frontier Exploration on Graphs with Applications to Network-Based Disease Testing**  
 Davin Choo, **Yuqi Pan**, Tonghan Wang, Milind Tambe, Alastair van Heerden, Cheryl Johnson  
-NeurIPS 2025 
+NeurIPS 2025  
 [[arxiv](https://arxiv.org/abs/2505.21671)]
 * **Differentially Private Bayesian Persuasion**  
 **Yuqi Pan**, Zhiwei Steven Wu, Haifeng Xu, Shuran Zheng   
 The Web Conference (WWW) 2025 **(Oral)**  
 [[arxiv](https://arxiv.org/abs/2402.15872)]
 * **Robust Optimization with Diffusion Models for Green Security** 
-Lingkai Kong, Haichuan Wang, **Yuqi Pan**, Cheol Woo Kim, Mingxiao Song, Alayna Nguyen, Tonghan Wang, Haifeng Xu, Milind Tambe  
-UAI 2025
+Lingkai Kong, Haichuan Wang, **Yuqi Pan**, Cheol Woo Kim, Mingxiao Song, Alayna Nguyen, Tonghan Wang, Haifeng Xu, Milind Tambe   
+UAI 2025 
 [[arxiv](https://arxiv.org/abs/2503.05730)]
 * **Finite-Horizon Single-Pull Restless Bandits: An Efficient Index Policy For Scarce Resource Allocation**   
 Guojun Xiong, Haichuan Wang, **Yuqi Pan**, Saptarshi Mandal, Sanket Shah, Niclas Boehmer, Milind Tambe  
