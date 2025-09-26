@@ -22,9 +22,9 @@ NeurIPS 2025
 The Web Conference (WWW) 2025 **(Oral)**  
 [[arxiv](https://arxiv.org/abs/2402.15872)]
 * **Robust Optimization with Diffusion Models for Green Security**  
-Lingkai Kong, Haichuan Wang, **Yuqi Pan**, Cheol Woo Kim, Mingxiao Song, Alayna Nguyen, Tonghan Wang, Haifeng Xu, Milind Tambe   
+Lingkai Kong, Haichuan Wang, **Yuqi Pan**, Cheol Woo Kim, Mingxiao Song, Alayna Nguyen, Tonghan Wang, Haifeng Xu, Milind Tambe  
 UAI 2025  
-[[arxiv](https://arxiv.org/abs/2503.05730)]
+[[arxiv](https://arxiv.org/abs/2503.05730)] 
 * **Finite-Horizon Single-Pull Restless Bandits: An Efficient Index Policy For Scarce Resource Allocation**   
 Guojun Xiong, Haichuan Wang, **Yuqi Pan**, Saptarshi Mandal, Sanket Shah, Niclas Boehmer, Milind Tambe  
 AAMAS 2025  
