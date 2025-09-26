@@ -21,7 +21,7 @@ NeurIPS 2025
 **Yuqi Pan**, Zhiwei Steven Wu, Haifeng Xu, Shuran Zheng   
 The Web Conference (WWW) 2025 **(Oral)**  
 [[arxiv](https://arxiv.org/abs/2402.15872)]
-* **Robust Optimization with Diffusion Models for Green Security** 
+* **Robust Optimization with Diffusion Models for Green Security**   
 Lingkai Kong, Haichuan Wang, **Yuqi Pan**, Cheol Woo Kim, Mingxiao Song, Alayna Nguyen, Tonghan Wang, Haifeng Xu, Milind Tambe   
 UAI 2025  
 [[arxiv](https://arxiv.org/abs/2503.05730)]
