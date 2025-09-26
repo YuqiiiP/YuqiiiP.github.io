@@ -23,12 +23,12 @@ The Web Conference (WWW) 2025 **(Oral)**
 [[arxiv](https://arxiv.org/abs/2402.15872)]
 * **Robust Optimization with Diffusion Models for Green Security** 
 Lingkai Kong, Haichuan Wang, **Yuqi Pan**, Cheol Woo Kim, Mingxiao Song, Alayna Nguyen, Tonghan Wang, Haifeng Xu, Milind Tambe   
-UAI 2025 
+UAI 2025  
 [[arxiv](https://arxiv.org/abs/2503.05730)]
 * **Finite-Horizon Single-Pull Restless Bandits: An Efficient Index Policy For Scarce Resource Allocation**   
 Guojun Xiong, Haichuan Wang, **Yuqi Pan**, Saptarshi Mandal, Sanket Shah, Niclas Boehmer, Milind Tambe  
 AAMAS 2025  
-[[arxiv](https://arxiv.org/abs/2501.06103)]
+[[arxiv](https://arxiv.org/abs/2501.06103)] 
 * **Contextual Decision-Making with Knapsacks beyond Worst Cases**  
 Zhaohua Chen, Rui Ai, Mingwei Yang, **Yuqi Pan**, Chang Wang, Xiaotie Deng  
 NeurIPS 2024  
