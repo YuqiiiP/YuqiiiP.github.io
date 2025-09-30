@@ -14,7 +14,7 @@ I obtained my bachelor’s degree at Peking University, where I was fortunate to
 Publications <small>(* indicates equal contribution)</small>
 ======
 * **Adaptive Frontier Exploration on Graphs with Applications to Network-Based Disease Testing**  
-Davin Choo*, **Yuqi Pan***, Tonghan Wang, Milind Tambe, Alastair van Heerden, Cheryl Johnson  
+Davin Choo\*, **Yuqi Pan\***, Tonghan Wang, Milind Tambe, Alastair van Heerden, Cheryl Johnson  
 NeurIPS 2025  
 [[arxiv](https://arxiv.org/abs/2505.21671)]
 * **Differentially Private Bayesian Persuasion**  
@@ -38,7 +38,7 @@ NeurIPS 2024
 The Web Conference (WWW) 2024  
 [[arxiv](https://arxiv.org/abs/2311.14094)]
 *  **Dynamic Budget Throttling in Repeated Second-Price Auctions**  
-Zhaohua Chen, Chang Wang, Qian Wang, **Yuqi Pan**, Zhuming Shi, Zheng Cai, Yukun Ren, Zhihua Zhu, Xiaotie Deng  
+Zhaohua Chen\*, Chang Wang\*, Qian Wang\*, **Yuqi Pan**, Zhuming Shi, Zheng Cai, Yukun Ren, Zhihua Zhu, Xiaotie Deng  
 AAAI 2024  
 [[arxiv](https://arxiv.org/abs/2207.04690)]
 * **Altruism, Collectivism and Egalitarianism: On a Variety of Prosocial Behaviors in Binary Networked Public Goods Games**  
