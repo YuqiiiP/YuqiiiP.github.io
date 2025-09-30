@@ -11,10 +11,10 @@ Hi! I’m a second-year PhD student in Computer Science at Harvard University, w
 
 I obtained my bachelor’s degree at Peking University, where I was fortunate to be advised by Prof. [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm) and Prof. [Yuqing Kong](https://cfcs.pku.edu.cn/yuqkong/). Additionally, I had a wonderful summer research experience at CMU, working with Prof. [Steven Wu](https://zstevenwu.com/), Prof. [Haifeng Xu](https://www.haifeng-xu.com/) (UChicago), and Prof. [Shuran Zheng](https://sites.google.com/view/shuran-zheng/about?authuser=0) (Tsinghua University).
 
-Publications
+Publications <small>(* indicates equal contribution)</small>
 ======
 * **Adaptive Frontier Exploration on Graphs with Applications to Network-Based Disease Testing**  
-Davin Choo, **Yuqi Pan**, Tonghan Wang, Milind Tambe, Alastair van Heerden, Cheryl Johnson  
+Davin Choo*, **Yuqi Pan***, Tonghan Wang, Milind Tambe, Alastair van Heerden, Cheryl Johnson  
 NeurIPS 2025  
 [[arxiv](https://arxiv.org/abs/2505.21671)]
 * **Differentially Private Bayesian Persuasion**  
