@@ -14,7 +14,7 @@ I obtained my bachelor’s degree at Peking University, where I was fortunate to
 Working Papers
 ======
 * **Beyond Majority Voting: LLM Aggregation by Leveraging Higher-Order Information**    
-Rui Ai\*, **Yuqi Pan\***, David Simichi-Levi, Milind Tambe, Haifeng Xu
+Rui Ai\*, **Yuqi Pan\***, David Simichi-Levi, Milind Tambe, Haifeng Xu        
 [[arxiv](https://arxiv.org/abs/2510.01499)]
 
 
@@ -54,7 +54,7 @@ AAMAS 2023
 [[paper](https://dl.acm.org/doi/abs/10.5555/3545946.3598691)]
 
 
-* indicates equal contribution
+* indicates equal contribution.
 
 
 Teachings
