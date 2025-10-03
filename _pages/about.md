@@ -54,7 +54,7 @@ AAMAS 2023
 [[paper](https://dl.acm.org/doi/abs/10.5555/3545946.3598691)]
 
 
-* indicates equal contribution.
+\* indicates equal contribution.
 
 
 Teachings
