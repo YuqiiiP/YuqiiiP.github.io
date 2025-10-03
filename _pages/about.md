@@ -11,7 +11,14 @@ Hi! I’m a second-year PhD student in Computer Science at Harvard University, w
 
 I obtained my bachelor’s degree at Peking University, where I was fortunate to be advised by Prof. [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm) and Prof. [Yuqing Kong](https://cfcs.pku.edu.cn/yuqkong/). Additionally, I had a wonderful summer research experience at CMU, working with Prof. [Steven Wu](https://zstevenwu.com/), Prof. [Haifeng Xu](https://www.haifeng-xu.com/) (UChicago), and Prof. [Shuran Zheng](https://sites.google.com/view/shuran-zheng/about?authuser=0) (Tsinghua University).
 
-Publications <small>(* indicates equal contribution)</small>
+Working Papers
+======
+* **Beyond Majority Voting: LLM Aggregation by Leveraging Higher-Order Information**    
+Rui Ai\*, **Yuqi Pan\***, David Simichi-Levi, Milind Tambe, Haifeng Xu
+[[arxiv](https://arxiv.org/abs/2510.01499)]
+
+
+Publications 
 ======
 * **Adaptive Frontier Exploration on Graphs with Applications to Network-Based Disease Testing**  
 Davin Choo\*, **Yuqi Pan\***, Tonghan Wang, Milind Tambe, Alastair van Heerden, Cheryl Johnson  
@@ -45,6 +52,9 @@ AAAI 2024
 Jichen Li, Xiaotie Deng, Yukun Cheng, **Yuqi Pan**, Xuanzhi Xia, Zongjun Yang, Jan Xie  
 AAMAS 2023  
 [[paper](https://dl.acm.org/doi/abs/10.5555/3545946.3598691)]
+
+
+* indicates equal contribution
 
 
 Teachings
