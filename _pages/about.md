@@ -14,10 +14,10 @@ I obtained my bachelor’s degree at Peking University, where I was fortunate to
 
 Working Papers
 ======
-* **Learning to Persuade a Biased Receiver**
+* **Learning to Persuade a Biased Receiver**  
 **Yuqi Pan**, Sadie Zhao, Milind Tambe, Yiling Chen 
-* **LLM Active Alignment:A Nash Equilibrium Perspective**
-Tonghan Wang\*, **Yuqi Pan\***, Xinyi Yang\*, Yanchen Jiang, Milind Tambe, David C. Parkes 
+* **LLM Active Alignment:A Nash Equilibrium Perspective** 
+Tonghan Wang\*, **Yuqi Pan\***, Xinyi Yang\*, Yanchen Jiang, Milind Tambe, David C. Parkes  
 [[arxiv](https://arxiv.org/abs/2602.06836)] 
 
 
