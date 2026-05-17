@@ -7,19 +7,30 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m a second-year PhD student in Computer Science at Harvard University, where I am fortunate to be advised by Prof. [Milind Tambe](https://teamcore.seas.harvard.edu/tambe) and Prof. [Yiling Chen](https://yiling.seas.harvard.edu/). My research interests lie at the intersection of machine learning, theoretical computer science, and economics. In particular, I am interested in applying economic principles, such as incentives, information, and strategic interactions, to design safer and more effective AI systems, as well as in studying how computational systems influence behavior, decision-making, and information flow in social platforms and markets.
+Hi! I’m a second-year PhD student in Computer Science at Harvard University, where I am fortunate to be advised by Prof. [Milind Tambe](https://teamcore.seas.harvard.edu/tambe) and Prof. [Yiling Chen](https://yiling.seas.harvard.edu/). My research interests lie at the intersection of machine learning, theoretical computer science, and economics. In particular, I am interested in investigating how LLMs reshape human decision-making and drive the evolution of information dynamics within social systems, as well as leveraging game theory and incentive design to develop robust, trustworthy, and socially
+aligned AI agents.
 
 I obtained my bachelor’s degree at Peking University, where I was fortunate to be advised by Prof. [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm) and Prof. [Yuqing Kong](https://cfcs.pku.edu.cn/yuqkong/). Additionally, I had a wonderful summer research experience at CMU, working with Prof. [Steven Wu](https://zstevenwu.com/), Prof. [Haifeng Xu](https://www.haifeng-xu.com/) (UChicago), and Prof. [Shuran Zheng](https://sites.google.com/view/shuran-zheng/about?authuser=0) (Tsinghua University).
 
 Working Papers
 ======
-* **Beyond Majority Voting: LLM Aggregation by Leveraging Higher-Order Information**    
-Rui Ai\*, **Yuqi Pan\***, David Simichi-Levi, Milind Tambe, Haifeng Xu        
-[[arxiv](https://arxiv.org/abs/2510.01499)]
+* **Learning to Persuade a Biased Receiver**
+**Yuqi Pan**, Sadie Zhao, Milind Tambe, Yiling Chen 
+* **LLM Active Alignment:A Nash Equilibrium Perspective**
+Tonghan Wang\*, **Yuqi Pan\***, Xinyi Yang\*, Yanchen Jiang, Milind Tambe, David C. Parkes 
+[[arxiv](https://arxiv.org/abs/2602.06836)] 
 
 
 Publications 
 ======
+* **Adaptive Multi-Round Allocation with Stochastic Arrivals**  
+**Yuqi Pan\***, Davin Choo\*, Haichuan Wang, Milind Tambe, Alastair Van Heerden, Cheryl Johnson  
+ICML 2026 
+[[arxiv](https://arxiv.org/abs/2605.12111)]
+* **Beyond Majority Voting: LLM Aggregation by Leveraging Higher-Order Information**    
+Rui Ai\*, **Yuqi Pan\***, David Simichi-Levi, Milind Tambe, Haifeng Xu    
+ICML 2026     
+[[arxiv](https://arxiv.org/abs/2510.01499)]
 * **Adaptive Frontier Exploration on Graphs with Applications to Network-Based Disease Testing**  
 Davin Choo\*, **Yuqi Pan\***, Tonghan Wang, Milind Tambe, Alastair van Heerden, Cheryl Johnson  
 NeurIPS 2025  
@@ -59,11 +70,13 @@ AAMAS 2023
 
 Teachings
 ======
+* 2026 Spring: AI for Social Impact, Harvard University (TF) 
+* 2025 Fall: Planning and Learning Methods in AI, Harvard University (TF) 
 * 2023 Fall: Discrete Mathematics and Structures, PKU (TA)
 * 2023 Spring: Study and Practice on Topics of Frontier Computing, PKU (TA)
 * 2022 Fall: Discrete Mathematics and Structures, PKU (TA)
 
 
 
-Last updated: Sep 2025
+Last updated: May 2026
 
