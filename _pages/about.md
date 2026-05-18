@@ -15,8 +15,8 @@ I obtained my bachelor’s degree at Peking University, where I was fortunate to
 Working Papers
 ======
 * **Learning to Persuade a Biased Receiver**  
-**Yuqi Pan**, Sadie Zhao, Milind Tambe, Yiling Chen 
-[[arxiv](http://arxiv.org/abs/2605.15331)]  
+**Yuqi Pan**, Sadie Zhao, Milind Tambe, Yiling Chen   
+[[arxiv](https://arxiv.org/abs/2605.15331)]  
 * **LLM Active Alignment:A Nash Equilibrium Perspective** 
 Tonghan Wang\*, **Yuqi Pan\***, Xinyi Yang\*, Yanchen Jiang, Milind Tambe, David C. Parkes  
 [[arxiv](https://arxiv.org/abs/2602.06836)] 
@@ -26,7 +26,7 @@ Publications
 ======
 * **Adaptive Multi-Round Allocation with Stochastic Arrivals**  
 **Yuqi Pan\***, Davin Choo\*, Haichuan Wang, Milind Tambe, Alastair Van Heerden, Cheryl Johnson  
-ICML 2026 
+ICML 2026   
 [[arxiv](https://arxiv.org/abs/2605.12111)]
 * **Beyond Majority Voting: LLM Aggregation by Leveraging Higher-Order Information**    
 Rui Ai\*, **Yuqi Pan\***, David Simichi-Levi, Milind Tambe, Haifeng Xu    
