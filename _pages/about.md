@@ -17,7 +17,7 @@ Working Papers
 * **Learning to Persuade a Biased Receiver**  
 **Yuqi Pan**, Sadie Zhao, Milind Tambe, Yiling Chen   
 [[arxiv](https://arxiv.org/abs/2605.15331)]  
-* **LLM Active Alignment:A Nash Equilibrium Perspective**   
+* **LLM Active Alignment: A Nash Equilibrium Perspective**   
 Tonghan Wang\*, **Yuqi Pan\***, Xinyi Yang\*, Yanchen Jiang, Milind Tambe, David C. Parkes  
 [[arxiv](https://arxiv.org/abs/2602.06836)] 
 
