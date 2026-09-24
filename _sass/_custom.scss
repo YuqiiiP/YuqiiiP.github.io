@@ -1,0 +1,26 @@
+/* ==========================================================================
+   Custom overrides
+   ========================================================================== */
+
+/* Body-content links only (publication titles, advisor names, arxiv, ...).
+   Everything else — masthead nav, sidebar, footer — keeps the theme defaults.
+   `.page__content` is the `single` layout (about); `.archive` is the `archive`
+   layout (publications, teaching). */
+
+$content-link-color: #14532d;  /* deep forest green */
+
+.page__content,
+.archive {
+  a:not(.btn) {
+    color: $content-link-color;
+
+    &:visited {
+      color: $content-link-color;
+    }
+
+    &:hover,
+    &:focus {
+      color: mix(#fff, $content-link-color, 20%);
+    }
+  }
+}
