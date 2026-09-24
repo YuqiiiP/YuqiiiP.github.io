@@ -7,23 +7,26 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m a second-year PhD student in Computer Science at Harvard University, where I am fortunate to be advised by Prof. [Milind Tambe](https://teamcore.seas.harvard.edu/tambe) and Prof. [Yiling Chen](https://yiling.seas.harvard.edu/). My research interests lie at the intersection of machine learning, theoretical computer science, and economics. In particular, I am interested in investigating how LLMs reshape human decision-making and drive the evolution of information dynamics within social systems, as well as leveraging game theory and incentive design to develop robust, trustworthy, and socially
+Hi! I’m a third-year PhD student in Computer Science at Harvard University, where I am fortunate to be advised by Prof. [Milind Tambe](https://teamcore.seas.harvard.edu/tambe) and Prof. [Yiling Chen](https://yiling.seas.harvard.edu/). My research interests lie at the intersection of machine learning, theoretical computer science, and economics. In particular, I am interested in investigating how LLMs reshape human decision-making and drive the evolution of information dynamics within social systems, as well as leveraging game theory and incentive design to develop robust, trustworthy, and socially
 aligned AI agents.
 
 I obtained my bachelor’s degree at Peking University, where I was fortunate to be advised by Prof. [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm) and Prof. [Yuqing Kong](https://cfcs.pku.edu.cn/yuqkong/). Additionally, I had a wonderful summer research experience at CMU, working with Prof. [Steven Wu](https://zstevenwu.com/), Prof. [Haifeng Xu](https://www.haifeng-xu.com/) (UChicago), and Prof. [Shuran Zheng](https://sites.google.com/view/shuran-zheng/about?authuser=0) (Tsinghua University).
 
 Working Papers
 ======
-* **Learning to Persuade a Biased Receiver**  
-**Yuqi Pan**, Sadie Zhao, Milind Tambe, Yiling Chen   
-[[arxiv](https://arxiv.org/abs/2605.15331)]  
-* **LLM Active Alignment: A Nash Equilibrium Perspective**   
-Tonghan Wang\*, **Yuqi Pan\***, Xinyi Yang\*, Yanchen Jiang, Milind Tambe, David C. Parkes  
-[[arxiv](https://arxiv.org/abs/2602.06836)] 
-
+* **Tight Efficiency Guarantees for Strategyproof Linear Regression**
+Yichen Huang\*, **Yuqi Pan\***, Michael Mitzenmacher, Milind Tambe, Yiling Chen   
 
 Publications 
 ======
+* **Learning to Persuade a Biased Receiver**  
+**Yuqi Pan**, Sadie Zhao, Milind Tambe, Yiling Chen   
+NeurIPS 2026  
+[[arxiv](https://arxiv.org/abs/2605.15331)] 
+* **LLM Active Alignment: A Nash Equilibrium Perspective**   
+Tonghan Wang\*, **Yuqi Pan\***, Xinyi Yang\*, Yanchen Jiang, Milind Tambe, David C. Parkes  
+NeurIPS 2026  
+[[arxiv](https://arxiv.org/abs/2602.06836)] 
 * **Adaptive Multi-Round Allocation with Stochastic Arrivals**  
 **Yuqi Pan\***, Davin Choo\*, Haichuan Wang, Milind Tambe, Alastair Van Heerden, Cheryl Johnson  
 ICML 2026   
@@ -79,5 +82,5 @@ Teachings
 
 
 
-Last updated: May 2026
+Last updated: Sep 2026
 
