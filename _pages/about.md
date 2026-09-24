@@ -14,7 +14,7 @@ I obtained my bachelor’s degree at Peking University, where I was fortunate to
 
 Working Papers
 ======
-* **Tight Efficiency Guarantees for Strategyproof Linear Regression**
+* **Tight Efficiency Guarantees for Strategyproof Linear Regression**   
 Yichen Huang\*, **Yuqi Pan\***, Michael Mitzenmacher, Milind Tambe, Yiling Chen   
 
 Publications 
