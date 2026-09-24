@@ -15,30 +15,24 @@ I obtained my bachelor’s degree at Peking University, where I was fortunate to
 
 Selected Publications 
 ======
-* **Learning to Persuade a Biased Receiver**  
+* **[Learning to Persuade a Biased Receiver](https://arxiv.org/abs/2605.15331)**  
 **Yuqi Pan**, Sadie Zhao, Milind Tambe, Yiling Chen   
-NeurIPS 2026  
-[[arxiv](https://arxiv.org/abs/2605.15331)] 
-* **Adaptive Multi-Round Allocation with Stochastic Arrivals**  
+NeurIPS 2026
+* **[Adaptive Multi-Round Allocation with Stochastic Arrivals](https://arxiv.org/abs/2605.12111)**  
 **Yuqi Pan\***, Davin Choo\*, Haichuan Wang, Milind Tambe, Alastair Van Heerden, Cheryl Johnson  
-ICML 2026   
-[[arxiv](https://arxiv.org/abs/2605.12111)]
-* **Beyond Majority Voting: LLM Aggregation by Leveraging Higher-Order Information**    
+ICML 2026
+* **[Beyond Majority Voting: LLM Aggregation by Leveraging Higher-Order Information](https://arxiv.org/abs/2510.01499)**    
 Rui Ai\*, **Yuqi Pan\***, David Simichi-Levi, Milind Tambe, Haifeng Xu    
-ICML 2026     
-[[arxiv](https://arxiv.org/abs/2510.01499)]
-* **Adaptive Frontier Exploration on Graphs with Applications to Network-Based Disease Testing**  
+ICML 2026
+* **[Adaptive Frontier Exploration on Graphs with Applications to Network-Based Disease Testing](https://arxiv.org/abs/2505.21671)**  
 Davin Choo\*, **Yuqi Pan\***, Tonghan Wang, Milind Tambe, Alastair van Heerden, Cheryl Johnson  
-NeurIPS 2025  
-[[arxiv](https://arxiv.org/abs/2505.21671)]
-* **Differentially Private Bayesian Persuasion**  
+NeurIPS 2025
+* **[Differentially Private Bayesian Persuasion](https://arxiv.org/abs/2402.15872)**  
 **Yuqi Pan**, Zhiwei Steven Wu, Haifeng Xu, Shuran Zheng   
-The Web Conference (WWW) 2025 **(Oral)**  
-[[arxiv](https://arxiv.org/abs/2402.15872)]
-* **Robust Decision Aggregation with Second-order Information**  
+The Web Conference (WWW) 2025 **(Oral)**
+* **[Robust Decision Aggregation with Second-order Information](https://arxiv.org/abs/2311.14094)**  
 **Yuqi Pan**, Zhaohua Chen, Yuqing Kong  
-The Web Conference (WWW) 2024  
-[[arxiv](https://arxiv.org/abs/2311.14094)]
+The Web Conference (WWW) 2024
 
 \* indicates equal contribution.
 
